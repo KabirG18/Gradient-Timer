@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+}
+
+
+#timer {
+  font-family:arial,sans-serif;
+  font-size:220px;
+  font-weight: 900;
+  color:black;
+}
+
+#timerDiv {
+  margin: auto;
+  align-items: center;
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to bottom right, #74ebd5, #ACB6E5);
+}
